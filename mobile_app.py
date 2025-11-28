@@ -14,7 +14,7 @@ import threading
 
 # --- CẤU HÌNH SERVER ---
 # Thay thế bằng URL ứng dụng Heroku của bạn (ví dụ: https://khai-security-robot-12345.herokuapp.com)
-SERVER_URL = "https://TEN_APP_CUA_BAN.herokuapp.com/add_member" 
+SERVER_URL = "https://khai-security-robot-f5870f032456.herokuapp.com/add_member" 
 
 class SecurityApp(App):
     def build(self):
